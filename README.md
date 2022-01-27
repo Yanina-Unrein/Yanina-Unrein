@@ -4,11 +4,10 @@
           Es un placer darte la bienvenida a mi repositorio, aquí encontrarás los proyectos en los que he estado trabajando estos últimos meses en los que me he estado capacitando como Full Stack; en ellos podrás apreciar los conocimientos y habilidades que he obtenido, y mi desempeño al momento de abordar un proyecto.
         </p>
         <p>
-          Es muy importante mencionar que estoy abierta a sugerencias y recomendaciones con el fin de mejorar mis habilidades y poder aprender nuevos conocimientos, así como también poder ir 
+          Es muy importante mencionar que estoy abierta a sugerencias y recomendaciones con el fin de mejorar mis habilidades y poder 
+ aprender nuevos conocimientos, así como también poder ir 
           creciendo en lo que ya conozco.
         </p>
-
-<br>
 <br>
 <p>
 <h3 align = "left"> Conéctate conmigo: </h3>
