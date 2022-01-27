@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenidos</h1>
-<img src ="./img/presentacion.jpg" alt="Alejandra" width ="100% "height =" 30% "/>
+
  <p>
           Es un placer darte la bienvenida a mi repositorio, aquí encontrarás los proyectos en los que he estado trabajando estos últimos meses en los que me he estado capacitando como Full Stack; en ellos podrás apreciar los conocimientos y habilidades que he obtenido, y mi desempeño al momento de abordar un proyecto.
         </p>
