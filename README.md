@@ -18,22 +18,6 @@ I am currently studying a technical degree in **Web Development and Digital Appl
 -  Python
 -  Wordpress
 
-#### 5 Commands
-
-| Commands | Description                     |
-|----------|---------------------------------|
-|    ls    | Lista el contenido              |
-|    cd    | nos permite cambiar directorios | 
-|   mkdir  | crear una carpeta               |
-|   clear  | limpiar la terminal             |
-|   alias  | listar los alias                |
-
-#### Alias
-```
-alias mostused='history | awk '\''{print $2}'\''| sort | uniq -c | sort -nr | head -n 10'
-
-```
-<br>
 <p>
 <h3 align = "left"> Conéctate conmigo: </h3>
 <p align = "left">
