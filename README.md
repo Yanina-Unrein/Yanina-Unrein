@@ -10,6 +10,7 @@ I´m a **Full-stack Developer Trainee** from **Argentina**.
 I am currently studying a technical degree in **Web Development and Digital Applications** at the ISPC and a Technical Degree in **Web Development** at the University of Entre Rios.
 
 ## 	:computer: Courses
+- Frontend React | Codo a Codo edition 2023
 - Bootcamp JavaScript Full-Stack | Undefined Academy
 - Web development JavaSript/NodeJS | Codo a Codo edition 2023
 - Open Bootcamp
