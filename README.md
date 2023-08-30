@@ -3,7 +3,7 @@
 I´m a **Full-stack Developer Trainee** from **Argentina**.
 
 <p align="center">
-<img src="./img/portfolio_presentacion.jpg" alt="Presentacion" width ="500" height="300" />
+<img src="./img/portfolio.png" alt="Presentacion" width ="500" height="300" />
 </p>
 
 ## 	:books: Studies
