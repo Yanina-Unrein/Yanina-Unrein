@@ -1,6 +1,6 @@
 # 👋 Hello, I´m Yanina Unrein,
 
-I'm a **Junior Full Stack Developer** with a strong focus on **Frontend**, based in Argentina 🇦🇷. I have over a year and a half of professional experience designing, developing, and optimizing web applications and sites, working with technologies such as **Vue**, **React**, **Angular**, **Spring Boot**, and more.
+I'm a **Junior Full Stack Developer** with a strong focus on **Frontend**, based in Argentina. I have over a year and a half of professional experience designing, developing, and optimizing web applications and sites, working with technologies such as **Vue**, **React**, **Angular**, **Spring Boot**, and more.
 
 <p align="center">
 <img src="./img/portfolio.png" alt="Presentacion" width ="500" height="300" />
