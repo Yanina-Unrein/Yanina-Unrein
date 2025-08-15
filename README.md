@@ -1,6 +1,6 @@
 # 👋 Hello, I´m Yanina Unrein,
 
-I'm a **Junior Full Stack Developer** with a strong focus on **Frontend**, based in Argentina. I have over a year and a half of professional experience designing, developing, and optimizing web applications and sites, working with technologies such as **Vue**, **React**, **Angular**, **Spring Boot**, and more.
+I'm a **Full Stack Developer** with a strong focus on **Frontend**, based in Argentina. I have over a year and a half of professional experience designing, developing, and optimizing web applications and sites, working with technologies such as **Vue.js**, **React**, **Angular**, **NodeJS**, **Java** and more.
 
 <p align="center">
 <img src="./img/portfolio.png" alt="Presentacion" width ="500" height="300" />
@@ -11,15 +11,16 @@ I'm a **Junior Full Stack Developer** with a strong focus on **Frontend**, based
 - 🎓 *Technical Degree in Web Development and Digital Applications* – Instituto Superior Politécnico Córdoba *(2022 – 2024)*
 
 ## 	:computer: Courses
-- Angular Professional Course *(2025)*
-- Java & Spring Boot – Oracle Next Education *(2025 – Present)*
-- Angular From Zero to Expert – Udemy *(2025)*
+- Programa Desarrollo FullStack con Angular y NetCore - UTN and Grupo San Cristóbal 
+- Angular Professional Course 
+- Java & Spring Boot – Oracle Next Education 
+- Angular From Zero to Expert – Udemy 
 - Frontend Developer – Platzi
 - Responsive Design: Mobile First – Platzi
-- Fullstack JavaScript/Node.js – Codo a Codo *(2023)*
-- Frontend React – Codo a Codo *(2023)*
+- Fullstack JavaScript/Node.js – Codo a Codo 
+- Frontend React – Codo a Codo 
 - JavaScript Fullstack Bootcamp – Undefined Academy
-- C# .NET Course – Udemy *(Ongoing)*
+
 
 ## :rocket: Technologies
 <div align="center">
